@@ -52,4 +52,9 @@ list_of_5_float_numbers.py
 Today I read on how to handl a Python file  (read, write... ) so I only did one exercise  
 create_file.py  
 new_file.txt  
-test.txt 
+test.txt  
+
+**#Day 8:** 
+
+Format_variables.py
+one_input.py
